@@ -59,3 +59,29 @@
     border-bottom: 3px solid black;
     border-left: 3px solid black;
 }
+
+
+.type6 {
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.type7 {
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+}
+
+.type8 {
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+}
+
+.type9 {
+    border-right: 3px solid black;
+    border-left: 3px solid black;
+}
+
+.type10 {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
