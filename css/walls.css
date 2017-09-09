@@ -2,6 +2,10 @@
     background-image: url('../img/grass_bg.png');
 }
 
+footer{
+    padding-top: 500px;
+}
+
 .stone_bg{
     background: url('../img/stone_bg.png') repeat;
 }
@@ -12,6 +16,20 @@
 
 .hr-letf{
     width: 33%;
+}
+
+.fireworks{
+    background-image: url('../img/fireworks.jpg');
+}
+
+.present{
+    background-image: url('../img/present.png');
+}
+
+
+h1, h2, h3, h6{
+    text-align: center;
+    color: deeppink;
 }
 
 .perso_down{
