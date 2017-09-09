@@ -1,3 +1,7 @@
+.hr-letf{
+    width: 33%;
+
+}
 .wall-top {
     border-top: 3px solid black;
 }
@@ -19,6 +23,7 @@
 }
 
 .square:after {
+    align-content: center;
     content: "";
     display: block;
     padding-bottom: 100%;
