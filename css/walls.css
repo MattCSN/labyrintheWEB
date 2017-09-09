@@ -1,8 +1,25 @@
+.grass_bg{
+    background-image: url('../img/grass_bg.png');
+}
+
+.stone_bg{
+    background: url('../img/stone_bg.png') repeat;
+}
+
+.ground_bg{
+    background-image: url('../img/ground_bg.png');
+}
+
 .hr-letf{
     width: 33%;
-
 }
-.wall-top {
+
+.perso_down{
+    background: url('../img/perso_bottom.png') no-repeat;
+    background-size: 50%;
+}
+
+.wall-top{
     border-top: 3px solid black;
 }
 
@@ -18,11 +35,11 @@
     border-left: 3px solid black;
 }
 
-.square{
+.box{
     width: 40%;
 }
 
-.square:after {
+.box:after {
     align-content: center;
     content: "";
     display: block;
